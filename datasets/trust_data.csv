@@ -1,1 +1,11 @@
-
+time_step,AI_accuracy,human_trust_level,task_type
+1,0.82,0.55,image_classification
+2,0.76,0.57,image_classification
+3,0.91,0.62,image_classification
+4,0.60,0.51,image_classification
+5,0.88,0.56,image_classification
+6,0.93,0.63,image_classification
+7,0.71,0.59,image_classification
+8,0.95,0.64,image_classification
+9,0.68,0.58,image_classification
+10,0.97,0.66,image_classification
